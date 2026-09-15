@@ -1,0 +1,151 @@
+#include "stdio.h" 
+
+
+
+int main()
+{
+    a=b+c;
+
+   return 0;
+
+
+}
+
+int a-2
+int b-3
+intc=4
+
+    a=b-2;
+    	a=b=c 
+    printf("a=%d\nb=%d",a,b);
+	 
+    
+    
+
+
+
+
+    12=a;
+     int main()
+	{
+	
+		scanf("%d,&num");
+	if(num%2==0)	
+		printf(����һ��ż����)�� 
+		eles
+		printf(����һ������") �� 
+		
+		
+		return 0;
+		
+		
+		
+		
+		
+		int main()
+			printf(��������ĳɼ���");
+			scanf("%d,&num");
+		f(num%2==0)	
+		{
+		Printf("���ĳɼ�������")�� 
+		}
+		eles if (num=1)
+			Printf("���ĳɼ�������")��
+		
+			eles if (num=1)
+		{
+		}
+			Printf("���ĳɼ�������")��
+			eles if (num=2)
+		{	Printf("���ĳɼ�������")��
+		 } 
+		
+			eles if (num=3)
+		{
+		}	Printf("���ĳɼ�������")��
+		
+			eles if (num=4)
+		{	Printf("���ĳɼ�������")��
+		}
+		
+			eles if (num=5)
+		{
+		}	Printf("���ĳɼ�������")��
+		
+			eles if (num=6)
+		{
+		 } 	Printf("���ĳɼ�����")��
+		
+			eles if (num=7)
+		{
+		}	Printf("���ĳɼ�����")��
+		
+			eles if (num=8)
+		{	Printf("���ĳɼ�����")��
+		
+			eles if (num=9)
+		{	Printf("���ĳɼ�����")��
+		
+		} 
+		
+			eles if (num=10)
+		{	Printf("���ĳɼ�����")��
+		eles 
+		Printf("���ĳɼ���������")��
+		
+		
+		 } 
+		 
+		 
+	   if(1){
+	    printf (���������")
+	    eles
+	    {
+	    	 printf (�����Ǽٵ�")
+	    	
+		}
+		
+		case0
+			Printf("���ĳɼ����ϸ�")��
+		case1
+		
+			Printf("���ĳɼ����ϸ�")��
+		case2
+			Printf("���ĳɼ����ϸ�")��
+		case3
+		
+			Printf("���ĳɼ����ϸ�")��
+		case4
+		
+			Printf("���ĳɼ����ϸ�")��
+		case5
+		
+			Printf("���ĳɼ����ϸ�")��
+		case6
+			Printf("���ĳɼ��ϸ�")��
+		case7
+			Printf("���ĳɼ�����")��
+		caes8
+			Printf("���ĳɼ�����")��
+		case 9
+	}	Printf("���ĳɼ�����")��
+	    caes10
+		Printf("���ĳɼ�����")��
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
